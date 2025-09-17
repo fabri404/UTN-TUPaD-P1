@@ -1,6 +1,10 @@
 package proyectosunidad2;
 import java.util.Scanner;
+<<<<<<< HEAD
 
+=======
+//Trabajo Practico unidad 2 programacion II Adriel lopez
+>>>>>>> 19728f8 (unidad 3 adriel lopez introduccion a poo)
 public class Proyectosunidad2 {
 
     public static void main(String[] args) {
