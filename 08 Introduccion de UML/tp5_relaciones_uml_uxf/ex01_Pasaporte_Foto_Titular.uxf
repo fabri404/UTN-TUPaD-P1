@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<umlet_diagram program="umlet" version="15.1"><element id="com.umlet.element.Class"><coordinates>20;20;200;180</coordinates><panel_attributes>Pasaporte
+--
+numero: String
+fechaEmision: String</panel_attributes><additional_attributes /></element><element id="com.umlet.element.Class"><coordinates>260;20;200;180</coordinates><panel_attributes>Foto
+--
+imagen: String
+formato: String</panel_attributes><additional_attributes /></element><element id="com.umlet.element.Class"><coordinates>500;20;200;180</coordinates><panel_attributes>Titular
+--
+nombre: String
+dni: String</panel_attributes><additional_attributes /></element><element id="com.umlet.element.Relation"><coordinates>120;110;240;10</coordinates><panel_attributes>*--
+composición</panel_attributes><additional_attributes>120;110;360;110</additional_attributes></element><element id="com.umlet.element.Relation"><coordinates>120;110;480;10</coordinates><panel_attributes>&lt;--&gt;
+asociación</panel_attributes><additional_attributes>120;110;600;110</additional_attributes></element></umlet_diagram>

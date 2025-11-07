@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<umlet_diagram program="umlet" version="15.1"><element id="com.umlet.element.Class"><coordinates>20;20;200;180</coordinates><panel_attributes>Libro
+--
+titulo: String
+isbn: String</panel_attributes><additional_attributes /></element><element id="com.umlet.element.Class"><coordinates>260;20;200;180</coordinates><panel_attributes>Autor
+--
+nombre: String
+nacionalidad: String</panel_attributes><additional_attributes /></element><element id="com.umlet.element.Class"><coordinates>500;20;200;180</coordinates><panel_attributes>Editorial
+--
+nombre: String
+direccion: String</panel_attributes><additional_attributes /></element><element id="com.umlet.element.Relation"><coordinates>120;110;240;10</coordinates><panel_attributes>--&gt;
+asociación</panel_attributes><additional_attributes>120;110;360;110</additional_attributes></element><element id="com.umlet.element.Relation"><coordinates>120;110;480;10</coordinates><panel_attributes>o--
+agregación</panel_attributes><additional_attributes>120;110;600;110</additional_attributes></element></umlet_diagram>
